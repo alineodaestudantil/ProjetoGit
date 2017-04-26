@@ -19,6 +19,7 @@ public class ProjetoGit {
         // TODO code application logic here
         System.out.println("Atividade Teste");
         System.out.println("Alteração");
+        System.out.println("Alterado");
     }
     
 }
